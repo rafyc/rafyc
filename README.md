@@ -11,6 +11,7 @@ Thanks to the school learning approach, we learned to work collaboratively, in p
 Throught the 2nd and 3rd trimester, we worked with different team on remote on AirBnB clone project, witch is a simple copy to the original plateform.
 This BIG project is divided into two parts : The front-end from scratch and the backend part using Python3, MySQL database, Flask as web framework and API calls.
 
+### My portfolio project :
 Link to the project : 
 
 <p align="center">
@@ -18,7 +19,7 @@ Link to the project :
   <img width="252" height="200"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafyc&show_icons=true&bg_color=0C1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&layout=compact&langs_count=8">
 </p>
-
+### If you want to reach me out, you can message me on :
 <div align="center">
   <a href="https://github.com/rafyc" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
