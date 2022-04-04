@@ -16,6 +16,8 @@ Link to the project :
 
 ### My latest Medium articles:
 <!-- MEDIUM-STORY-LIST:START -->
+- [C language and static libraries](https://medium.com/@4318_26766/c-language-and-static-libraries-4aa28f7ec3da?source=rss-e800c6e8df5e------2)
+- [What is the GCC?](https://medium.com/@4318_26766/what-is-the-gcc-9851073064df?source=rss-e800c6e8df5e------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 
