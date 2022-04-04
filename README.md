@@ -33,6 +33,7 @@ Link to the project :
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
   <img style="margin: 10px" src="https://image.flaticon.com/icons/png/512/1216/1216733.png" alt="HTML5" height="50" />  
   <img style="margin: 10px" src="https://www.logolynx.com/images/logolynx/0d/0d35ef6c8d4fdaf0590228404dc6448b.png" alt="CSS3" height="50" />  
+  <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 </div>
 </br>
 <div align="center">  
