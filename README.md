@@ -1,7 +1,15 @@
 # **<div align="center">Hi there 👋, welcome to my GitHub Profile</div>**  
-  
 
-### <div align="center">I'm Raphaël, a software engineer student [@HolbertonSchool](https://github.com/holbertonschool) in Paris, France 🇫🇷</div>  
+### <div align="center">I'm Raphaël, a software engineer student [@HolbertonSchool](https://github.com/holbertonschool) in Paris, France 🇫🇷</div>
+and i'm looking for an inbternship in Blockchain and smart contract.
+During my first year at Holberton School, i worked mainly with C, Python, J.S language, and bash scripting.
+Thus i'm comfortable with C and Linux but also in Front developpement as i was Webdesigner / webmaster before.
+
+I recreatied printf function and Linuix Shell with two different groups.
+Thanks to the school learning approach, we learned to work collaboratively, in persoon and remotely.
+
+Throught the 2nd and 3rd trimester, we worked with different team on remote on AirBnB clone project, witch is a simple copy to the original plateform.
+This BIG project is divided into two parts : The front-end from scratch and the backend part using Python3, MySQL database, Flask as web framework and API calls.
   
 
 <p align="center">
