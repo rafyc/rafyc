@@ -19,7 +19,9 @@ Link to the project :
   <img width="252" height="200"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafyc&show_icons=true&bg_color=0C1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&layout=compact&langs_count=8">
 </p>
+
 ### If you want to reach me out, you can message me on :
+
 <div align="center">
   <a href="https://github.com/rafyc" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
