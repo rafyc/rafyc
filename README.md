@@ -19,6 +19,7 @@ Link to the project :
   <img width="252" height="200"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafyc&show_icons=true&bg_color=0C1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&layout=compact&langs_count=8">
 </p>
+</br>
 <div align="center">  
   <img style="margin: 10px" src="https://icon-library.com/images/bash-icon/bash-icon-24.jpg" alt="Bash" height="50" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
