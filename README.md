@@ -1,9 +1,9 @@
 # **<div align="center">Hi there 👋, welcome to my GitHub Profile</div>**  
 
 ### <div align="center">I'm Raphaël, a software engineer student [@HolbertonSchool](https://github.com/holbertonschool) in Paris, France 🇫🇷</div>
-I'm looking for an inbternship in Blockchain and smart contract.
+I'm looking for an internship in Blockchain and smart contract.
 During my first year at Holberton School, i worked mainly with C, Python, J.S language, and bash scripting.
-Thus i'm comfortable with C and Linux but also in Front developpement as i was Webdesigner / webmaster before.
+Thus i'm comfortable with C and Linux but also in Front development as i was Webdesigner / webmaster before.
 
 I recreatied printf function and Linuix Shell with two different groups.
 Thanks to the school learning approach, we learned to work collaboratively, in persoon and remotely.
