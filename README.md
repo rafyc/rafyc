@@ -16,11 +16,11 @@ Link to the project :
 
 ### My latest Medium articles:
 <!-- MEDIUM-STORY-LIST:START -->
+- [DO YOU KNOW STEM CAREERS ?](https://medium.com/@4318_26766/do-you-know-stem-careers-e8b59576f06e?source=rss-e800c6e8df5e------2)
 - [Recursion and how it works on the stack.](https://medium.com/@4318_26766/recursion-and-how-it-works-on-the-stack-bdcdce726331?source=rss-e800c6e8df5e------2)
 - [Python3 : Mutable, Immutable… everything is OOPs!](https://medium.com/@4318_26766/python3-mutable-immutable-everything-is-oops-fe4e833adbb8?source=rss-e800c6e8df5e------2)
 - [Creating and Using Dynamic Libraries in C language](https://medium.com/@4318_26766/creating-and-using-dynamic-libraries-in-c-language-912b078b7c52?source=rss-e800c6e8df5e------2)
 - [C language and static libraries](https://medium.com/@4318_26766/c-language-and-static-libraries-4aa28f7ec3da?source=rss-e800c6e8df5e------2)
-- [What is the GCC?](https://medium.com/@4318_26766/what-is-the-gcc-9851073064df?source=rss-e800c6e8df5e------2)
 <!-- MEDIUM-STORY-LIST:END -->
 
 
