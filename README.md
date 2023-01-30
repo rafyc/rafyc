@@ -10,6 +10,8 @@ Thanks to the school learning approach, we learned to work collaboratively, in p
 Throught the 2nd and 3rd trimester, we worked with different team on remote on AirBnB clone project, witch is a simple copy to the original plateform.
 This BIG project is divided into two parts : The front-end from scratch and the backend part using Python3, MySQL database, Flask as web framework and API calls.
 
+Then i spent 5 month in a Montreal, Canada as a React Native software developper. I worked on the developpement of a Ios & Android APP for a energy independent smart home.
+
 ### My portfolio project:
 Link to the project : 
 
