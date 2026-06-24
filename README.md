@@ -1,16 +1,55 @@
 # **<div align="center">Hi there 👋, welcome to my GitHub Profile</div>**  
 
-### <div align="center">I'm Raphaël, a software engineer student [@HolbertonSchool](https://github.com/holbertonschool) in Paris, France 🇫🇷</div>
-During my first year at Holberton School, i worked mainly with C, Python, J.S language, and bash scripting.
-Thus i'm comfortable with C and Linux but also in Front development as i was Webdesigner / webmaster before.
+### <div align="center">I'm Raphaë a Front-End / Full-Stack Developer specializing in JavaScript and modern web technologies.based in Lyon, France 🇫🇷</div>
 
-I recreatied printf function and Linuix Shell with two different groups.
-Thanks to the school learning approach, we learned to work collaboratively, in persoon and remotely.
+💻 Tech Stack
+## 💻 Tech Stack
 
-Throught the 2nd and 3rd trimester, we worked with different team on remote on AirBnB clone project, witch is a simple copy to the original plateform.
-This BIG project is divided into two parts : The front-end from scratch and the backend part using Python3, MySQL database, Flask as web framework and API calls.
+### Front-End
+• React
+• React Native
+• Vue.js
+• JavaScript (ES6+)
+• TypeScript
+• HTML5
+• CSS3
+• Sass (SCSS)
+• Tailwind CSS
+• Bootstrap
 
-Then i spent 5 month in a Montreal, Canada as a React Native software developper. I worked on the developpement of a Ios & Android APP for a energy independent smart home.
+### Back-End
+• Node.js
+• Express.js
+• REST APIs
+• Python
+• Flask
+• C
+
+### Databases
+• PostgreSQL
+• MongoDB
+• MySQL
+• SQLite
+
+### Tools & DevOps
+• Git & GitHub
+• Linux
+• Bash
+• npm
+• Vite
+• Webpack
+• Figma
+• Postman
+• VS Code
+
+### Methodologies
+• Agile / Scrum
+• Git Flow
+• Responsive Design
+• UI / UX Integration
+• Object-Oriented Programming
+
+🚀 Passionate about building scalable web applications, clean user interfaces, and industrial software solutions.
 
 ### My portfolio project:
 Link to the project : 
