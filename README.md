@@ -3,6 +3,8 @@
 ### <div align="center">I'm Raphaë a Front-End / Full-Stack Developer specializing in JavaScript and modern web technologies.</div>
 ### <div align="center">📍 Based in Lyon, France 🇫🇷</div>
 
+🚀 Passionate about building scalable web applications, clean user interfaces, and industrial software solutions.
+
 ## 💻 Tech Stack
 
 ### Front-End
@@ -48,8 +50,6 @@
 • Responsive Design
 • UI / UX Integration
 • Object-Oriented Programming
-
-🚀 Passionate about building scalable web applications, clean user interfaces, and industrial software solutions.
 
 ### My portfolio project:
 Link to the project : 
