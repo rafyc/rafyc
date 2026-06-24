@@ -2,7 +2,6 @@
 
 ### <div align="center">I'm Raphaë a Front-End / Full-Stack Developer specializing in JavaScript and modern web technologies.based in Lyon, France 🇫🇷</div>
 
-💻 Tech Stack
 ## 💻 Tech Stack
 
 ### Front-End
