@@ -1,7 +1,7 @@
 # **<div align="center">Hi there 👋, welcome to my GitHub Profile</div>**  
 
 ### <div align="center">I'm Raphaë a Front-End / Full-Stack Developer specializing in JavaScript and modern web technologies.</div>
-# <div align="center">📍 Based in Lyon, France 🇫🇷</div>
+<div align="center">📍 Based in Lyon, France 🇫🇷</div>
 
 <div align="center">🚀 Passionate about building scalable web applications, clean user interfaces, and industrial software solutions.</div>
 
